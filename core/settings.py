@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-_#p5)p%x_u(-&h&z)=!g%htp*pcpq+vz3)!i8#6+baflf8cw6&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://hawkagent-backend-production.up.railway.app']
 
 
 # Application definition
